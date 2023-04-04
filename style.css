@@ -14,16 +14,22 @@ p {
 
 .containerHeader {
     width: 100%;
-  
-    flex-direction: row;
-    padding: 5px;
-    background-color:#55A7E6;
+    min-height: 30px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(130, 215, 255);
+    align-items: center;
     
    }
-
-.containerHeaderTelefono {
-    align-items: flex-start;
-}
-.containerHeaderMail {
+.telefonoMail {
+    display: flex;
     align-items: center;
+
 }
+.redeSociales {
+    display: flex;
+    align-items: center;
+   }
+
