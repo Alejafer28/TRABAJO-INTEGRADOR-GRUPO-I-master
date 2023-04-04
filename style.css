@@ -15,7 +15,7 @@ p {
 .containerHeader {
     width: 100%;
   
-    flex-direction: column;
+    flex-direction: row;
     padding: 5px;
     background-color:#55A7E6;
     
