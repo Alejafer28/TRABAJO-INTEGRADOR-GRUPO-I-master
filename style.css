@@ -33,5 +33,11 @@ p {
     align-items: center;
    }
 
+.containerMain {
+   display: flex;
+   align-items: center;
+   background-color: #5566D4;
+
+}
 
 
