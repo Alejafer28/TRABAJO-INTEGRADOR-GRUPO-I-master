@@ -1,0 +1,63 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+p {
+
+    margin: 0;
+}
+
+
+.containerHeader {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    padding: 0.5rem;
+    background-color:#55A7E6;
+
+}
+.containerHeaderTelefono {
+
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.containerHeaderFacebook {
+
+    align-items: flex-end;
+}
+
+
+
+
+
+
+.containerHeader .containerHeaderTelefono a img {
+
+    width: 6%;
+}
+
+.containerHeader .containerHeaderMail a img {
+
+    width: 6%;
+}
+
+.containerHeader .containerHeaderWhatsapp a img {
+
+    width: 6%;
+}
+
+.containerHeader .containerHeaderInstagram a img {
+
+    width: 6%;
+}
+
+.containerHeader .containerHeaderFacebook a img {
+
+    width: 6%;
+}
+
