@@ -19,7 +19,7 @@ p {
     justify-content: space-between;
     padding-left: 20px;
     padding-right: 20px;
-    background-color: rgb(130, 215, 255);
+    background-color: #99B5F0;
     align-items: center;
     
    }
@@ -36,7 +36,7 @@ p {
 .containerMain {
    display: flex;
    align-items: center;
-   background-color: #5566D4;
+   background-color: #99B5F0
 
 }
 .fuente {
@@ -100,4 +100,25 @@ background-color: #99B5F0;
     width: 300px;
     height: 300px;
     border-radius: 150px;
+}
+
+.imgComputadora {
+
+    width: 600px;
+    height: 398px;
+   
+   
+
+}
+
+.ventaEquipos {
+
+    width: 100%;
+    
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color:#99B5F0;
+    align-items: center;
 }
