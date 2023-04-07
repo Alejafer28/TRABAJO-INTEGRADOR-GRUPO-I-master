@@ -3,6 +3,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
     
 }
 
@@ -114,11 +116,24 @@ background-color: #99B5F0;
 .ventaEquipos {
 
     width: 100%;
-    
     display: flex;
     justify-content: center;
     padding-left: 20px;
     padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     background-color:#99B5F0;
-    align-items: center;
+    
 }
+ .ImgContacto {
+
+    display: flex;
+    
+    margin: auto;
+    padding-left: 100px;
+ }
+
+ .sectionContact .containerContacto {
+
+    background:  #99B5F0;
+ }
