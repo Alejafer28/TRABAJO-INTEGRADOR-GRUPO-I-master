@@ -14,7 +14,7 @@ p {
     font-size: 20px;
 }
 
-
+/* header */
 .containerHeader {
     width: 100%;
     min-height: 30px;
@@ -35,8 +35,9 @@ p {
     display: flex;
     align-items: center;
 }
+/* fin de header*/
 
-
+/*main*/
 .SectionImages {
     display: flex;
     flex-direction: row;
@@ -233,7 +234,9 @@ p {
     display: flex;
     justify-content: center;
 }
+/*fin main*/
 
+/*footer*/
 
 .containerfooter {
 
@@ -256,5 +259,6 @@ p {
 
 
 }
+/*fin footer*/
 
 
